@@ -1,2 +1,2 @@
 # IME-works
-A repository to keep IME Works
+A repository to maintain IME Works
