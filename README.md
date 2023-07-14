@@ -8,8 +8,17 @@ A repository to maintain IME Works
 
 ![Decriptenere](https://github.com/avelin0/Decriptnere)
 
+![Final Course Project SEG Document](https://github.com/avelin0/pfc-relatorio)
+
+# Web Dev
+![C# Web EAD](https://github.com/avelin0/ead) 
+
 ## Hacking
 ![WarDriving](https://github.com/avelin0/WarDriving)
+
+![IME Capture the Flag - CTF - writeup](https://github.com/avelin0/writeup-imectf0x7e1)
+
+![Security Information Management](https://github.com/avelin0/artigo_gsi_latex)
 
 ## Simulation:
   
@@ -17,3 +26,6 @@ A repository to maintain IME Works
 
 ## IA 
 ![System Recommendation](https://github.com/avelin0/system_recomendation)
+
+## GEneral Studies 
+![from Bruno Vieira](https://github.com/brunovcosta/IME)
